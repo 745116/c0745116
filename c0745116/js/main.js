@@ -1,4 +1,4 @@
-﻿
+﻿function peanut() {
     var date = new Date();
-        document.body.innerHTML = "<h1> The date is " + date + " </h1>";
-      
+    document.body.innerHTML = "<h1> The date is " + date + " </h1>";
+}     
